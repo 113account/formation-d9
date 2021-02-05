@@ -1,0 +1,18 @@
+uuid: 0f2d54f1-13c6-4873-864e-84b2fc249b0e
+langcode: fr
+status: true
+dependencies: {  }
+id: local_dev
+label: local_dev
+description: ''
+folder: config/local_dev
+module:
+  field_ui: 0
+  menu_ui: 0
+  views_ui: 0
+theme: {  }
+blacklist: {  }
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0
