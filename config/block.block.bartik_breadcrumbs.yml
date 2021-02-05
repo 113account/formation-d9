@@ -1,0 +1,22 @@
+uuid: e48678bc-4de3-4bfe-ae7a-b2cb43a8d6bf
+langcode: fr
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - bartik
+_core:
+  default_config_hash: oXUb3JZR2WW5VOdw4HrhRicCsq51mCgLfRyvheG68ck
+id: bartik_breadcrumbs
+theme: bartik
+region: breadcrumb
+weight: 0
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: 'Fils d''ariane'
+  provider: system
+  label_display: '0'
+visibility: {  }

@@ -1,0 +1,14 @@
+uuid: 42297bb5-9b22-4f85-ad00-91dcf7b2fc30
+name: 'formation d9'
+mail: admin@wampserver.invalid
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: fr
+default_langcode: fr
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
